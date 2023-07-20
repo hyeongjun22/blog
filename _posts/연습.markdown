@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "연습"
+date:   2023-07-20 14:52:54 +0900
+categories: jekyll update
 ---
-'''연습'''
 연습
